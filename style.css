@@ -1,0 +1,16 @@
+.main_container{
+    width: 70%;
+    height: 100%;
+    text-align: center;
+}
+#root{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-size: 72px;
+}
+p{
+    font-size: 22px;
+}
